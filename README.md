@@ -1,5 +1,20 @@
-<img width="435" height="607" alt="Captura de pantalla 2026-09-24 213726" src="https://github.com/user-attachments/assets/e76d681f-1df1-4b33-9d77-548870bc2d64" />
-```
+# Sistema de Inventario de Electrónica
+
+Este programa permite administrar un inventario de componentes electrónicos.
+
+## Funciones
+
+* Agregar componentes.
+* Mostrar todos los componentes.
+* Buscar un componente por código.
+* Prestar componentes.
+* Devolver componentes.
+* Eliminar componentes.
+* Guardar el inventario en un archivo.
+* Cargar el inventario automáticamente al iniciar.
+
+
+```python
 class Componente:
     def __init__(self, codigo, nombre, cantidad, estado):
         self.codigo = codigo
@@ -153,3 +168,8 @@ while opcion != 7:
         inventario.guardar()
         print("Programa terminado")
 ```
+
+
+
+
+<img width="435" height="607" alt="Captura de pantalla 2026-09-24 213726" src="https://github.com/user-attachments/assets/e76d681f-1df1-4b33-9d77-548870bc2d64" />
