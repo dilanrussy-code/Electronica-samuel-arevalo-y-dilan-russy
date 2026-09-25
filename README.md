@@ -1,1 +1,0 @@
-# Electronica-samuel-arevalo-y-dilan-russy
