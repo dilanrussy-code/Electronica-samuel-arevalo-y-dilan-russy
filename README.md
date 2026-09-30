@@ -45,7 +45,7 @@ class Inventario:
         if len(self.componentes) == 0:
             print("No hay componentes")
         else:
-            print("\nINVENTARIO")
+            print("INVENTARIO")
             for componente in self.componentes:
                 componente.mostrar()
 
@@ -135,7 +135,7 @@ opcion = 0
 
 while opcion != 7:
 
-    print("\nINVENTARIO DE ELECTRONICA")
+    print("INVENTARIO DE ELECTRONICA")
     print("1. Agregar componente")
     print("2. Mostrar componentes")
     print("3. Buscar componente")
