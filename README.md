@@ -353,5 +353,6 @@ while opcion != "3":
 
 
 
-<img width="1536" height="1024" alt="WhatsApp Image 2026-10-13 at 7 25 58 PM" src="https://github.com/user-attachments/assets/abd24194-6fa3-4e72-9b29-b2dd04bdab86" />
+<img width="571" height="772" alt="image" src="https://github.com/user-attachments/assets/6323d101-36a0-42df-aaa2-961271c5036c" />
+
 
