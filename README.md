@@ -4,33 +4,33 @@ Este programa permite administrar un inventario de componentes electrónicos.
 
 ## Funciones
 
-1. **Agregar componentes:** Permite al profesor registrar nuevos componentes con código, nombre, cantidad y estado. Verifica que el código no exista y que la cantidad sea mayor que cero.
+* 1. **Agregar componentes:** 
 
-2. **Mostrar todos los componentes:** Muestra los componentes registrados en el inventario, incluyendo su código, nombre, cantidad disponible y estado.
+* 2. **Mostrar todos los componentes:**
 
-3. **Buscar un componente por código:** Permite consultar un componente ingresando su código. Si no existe, muestra un mensaje indicando que no fue encontrado.
+* 3. **Buscar un componente por código:** 
 
-4. **Prestar componentes:** Permite prestar una unidad de un componente y disminuir su cantidad disponible en una unidad. Verifica que existan unidades disponibles.
+* 4. **Prestar componentes:**
 
-5. **Devolver componentes:** Permite registrar la devolución de un componente y aumentar su cantidad disponible en una unidad.
+* 5. **Devolver componentes:**
 
-6. **Eliminar componentes:** Permite al profesor eliminar un componente del inventario mediante su código.
+* 6. **Eliminar componentes:**
 
-7. **Guardar el inventario en un archivo:** Guarda los datos de los componentes en el archivo `inventario.txt`, conservando el código, nombre, cantidad y estado.
+* 7. **Guardar el inventario en un archivo:** 
 
-8. **Cargar el inventario automáticamente al iniciar:** Carga los componentes guardados en `inventario.txt` cuando se inicia el programa. Si el archivo no existe o el inventario está vacío, registra componentes iniciales.
+* 8. **Cargar el inventario automáticamente al iniciar:**
 
-9. **Crear cuentas de usuario:** Permite registrar usuarios mediante su número de documento y contraseña, asignándoles el rol de estudiante o profesor.
+* 9. **Crear cuentas de usuario:**
 
-10. **Iniciar sesión:** Verifica el documento y la contraseña para permitir el acceso al sistema.
+* 10. **Iniciar sesión:** 
 
-11. **Controlar los permisos según el rol:** Los estudiantes pueden mostrar, buscar, prestar y devolver componentes. Los profesores también pueden agregar y eliminar componentes.
+* 11. **Controlar los permisos según el rol:** 
 
-12. **Guardar y cargar usuarios:** Guarda las cuentas registradas en el archivo `usuarios.txt` y las carga automáticamente al iniciar el programa.
+* 12. **Guardar y cargar usuarios:** 
 
-13. **Cerrar sesión:** Permite al usuario salir de su sesión y regresar al menú principal.
+* 13. **Cerrar sesión:** 
 
-14. **Salir del programa:** Permite finalizar la ejecución del sistema desde el menú principal.
+* 14. **Salir del programa:** 
 
 
 ```python
