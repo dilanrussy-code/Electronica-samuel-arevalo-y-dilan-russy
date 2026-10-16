@@ -54,7 +54,6 @@ class Inventario:
         self.componentes = []
         self.cargar()
 
-        # Si no existe inventario, agregar componentes iniciales
         if len(self.componentes) == 0:
             self.componentes.append(
                 Componente("C001", "Resistencias 220 ohm", 100, "Disponible")
