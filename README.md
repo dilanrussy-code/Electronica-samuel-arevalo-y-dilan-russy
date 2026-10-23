@@ -37,6 +37,7 @@ Este programa permite administrar un inventario de componentes electrónicos.
 
 
 
-<img width="571" height="772" alt="image" src="https://github.com/user-attachments/assets/6323d101-36a0-42df-aaa2-961271c5036c" />
+<img width="548" height="528" alt="image" src="https://github.com/user-attachments/assets/3269291f-0881-4326-b6fa-82870e4232b1" />
+
 
 
